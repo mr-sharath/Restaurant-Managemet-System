@@ -10,9 +10,7 @@ PHP & MYSQL
 
 Website DEMO
 
-https://www.youtube.com/watch?v=K5KtjIR-9ts&ab_channel=IdrissJairi
-
-Admin Login Page: http://localhost/vincent/admin/
+Admin Login Page: http://localhost/Restaurant-Management-System/admin/
 
 Installation
 
